@@ -1,2 +1,2 @@
-# wikiTXT
-wikiTXT is a chrome extension that allows you to download .txt files from wikipedia
+# wikiMD
+wikiMD is a chrome extension that allows you to download .md (markdown) files from wikipedia
